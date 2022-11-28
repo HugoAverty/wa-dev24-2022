@@ -116,7 +116,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entryFuture"
+                 "value":"\/@\/liferay\/dev24\/mainroom-2022#entryFuture"
                 }],
          "type":"tilelayer",
          "visible":true,
